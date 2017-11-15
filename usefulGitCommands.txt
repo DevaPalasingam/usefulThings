@@ -1,0 +1,28 @@
+git clone <url>
+
+git remote -v
+git remote add <name> <url>
+
+
+git status
+git add -A
+git commmit -m "insert comment here"
+git push origin master
+
+
+git checkout -b <name of branch>
+git checkout <name of branch>
+
+gh-pages - branch for going on the web
+<username>.github.io
+
+
+
+<To Heroku>
+-(in cmd)
+	-heroku login
+	-heroku create
+-(git bash)
+	-git remote -v
+	-git push heroku master
+	

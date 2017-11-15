@@ -1,0 +1,5 @@
+https://gist.github.com/hofmannsven/9164408 - SQL cheetsheet
+
+
+Sequelize-----
+sequelize init:config & sequelize init:models

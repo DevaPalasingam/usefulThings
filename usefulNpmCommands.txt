@@ -1,0 +1,10 @@
+npm init
+npm install <whatever your package is> --save
+
+npm install -g inspect-process
+* Then open any Node program we've worked on to date and add the keyword `debugger;` in various places.
+* Then run the program by typing `inspect <NAME OF PROGRAM>`.
+
+npm install -g nodemon
+
+npm install -g sequelize-cli
