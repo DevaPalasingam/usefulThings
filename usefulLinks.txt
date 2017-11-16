@@ -1,6 +1,3 @@
-// bootcamp prework
-https://the-coding-bootcamp.gitbooks.io/pre-work-book/content/
-
 
 Refresh Austin - look into this to find a job
 
@@ -19,3 +16,5 @@ projecteuler.net - more so for algorithm stuff
 upwork.com - for freelance stuff
 
 space jam website
+
+http://www.rleonardi.com/interactive-resume/
