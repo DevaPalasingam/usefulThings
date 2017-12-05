@@ -1,0 +1,5 @@
+mongod - to start 
+
+mongo - in CMD
+
+Robo 3T - GUI for Mongo databases
