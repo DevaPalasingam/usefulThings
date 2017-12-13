@@ -10,6 +10,8 @@ https://femmebot.github.io/google-type/ - for font ideas
 
 https://unsplash.com/ - for free photos
 
+https://react.rocks/
+
 awwwards
 
 CSS Zen garden
@@ -27,3 +29,4 @@ upwork.com - for freelance stuff
 space jam website
 
 http://www.rleonardi.com/interactive-resume/
+

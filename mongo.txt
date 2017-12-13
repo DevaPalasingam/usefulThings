@@ -3,3 +3,7 @@ mongod - to start
 mongo - in CMD
 
 Robo 3T - GUI for Mongo databases
+
+
+Mongo Login Screen
+https://www.youtube.com/watch?v=Z1ktxiqyiLA

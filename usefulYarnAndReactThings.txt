@@ -1,0 +1,14 @@
+create-react-app <name of project>
+yarn start
+
+
+yarn add axios
+yarn add react-router-dom
+
+
+yarn install >in root<
+yarn install >in client<
+yarn start >in root<
+yarn build >in client<
+
+yarn seed >in root<

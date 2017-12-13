@@ -1,0 +1,15 @@
+>Installing Composer<
+Windows: XAMPP
+MAC: $ brew install homebrew/php/php71 && brew install composer
+
+PHP and Laravel
+
+
+
+PHP script tags:
+<?php
+
+?>
+
+
+composer create-project laravel/laravel <name of project>
