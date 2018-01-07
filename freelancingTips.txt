@@ -1,0 +1,9 @@
+1. Get the specs (business requirements) for the clients web app.
+2. Estimate each requirement time and multiple by an acceptable rate. 
+3. Draft a contract with a schedule of work listing exactly what is being paid for, and the compensation expected for that work.
+4. Take a retainer from the total to get started.
+5. Run a design questionnaire and ask for a list of sites they like and why, sites they dont like and why, and a final list of direct competitors sites and what they like and dislike about their competitors web presence.  
+6. Go to templatemonster.com and modify three demo sites with their info. Use a full page screenshot plugin to capture them and present three demo mockups to the client.
+7. Give them a set amount of time to return with a selection and one round of changes.  
+8. Use the demo sites to rebuild the interactive demo site.  
+9. Once approved turn the static UI into a wordpress theme.

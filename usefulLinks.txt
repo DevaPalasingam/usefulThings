@@ -8,13 +8,19 @@ http://www.colourlovers.com/lover/ilovecolor
 
 https://femmebot.github.io/google-type/ - for font ideas
 
+fontawesome.io
+
 https://unsplash.com/ - for free photos
 
 https://react.rocks/
 
 awwwards
 
+https://www.templatemonster.com/
+
 CSS Zen garden
+
+https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/
 
 https://rupl.github.io/unfold/
 
@@ -29,4 +35,15 @@ upwork.com - for freelance stuff
 space jam website
 
 http://www.rleonardi.com/interactive-resume/
+
+
+
+//technical interview questions
+https://leetcode.com/
+https://www.interviewcake.com/
+https://interviewing.io/
+https://www.pramp.com/#/
+https://www.codewars.com/
+https://www.hackerrank.com/
+https://codefights.com/
 

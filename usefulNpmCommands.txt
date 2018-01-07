@@ -18,3 +18,7 @@ npm install -g create-react-app yarn
 npm install -g prettier
 
 npm install express-generator -g
+
+
+<for react projects>
+npm install lodash --save

@@ -12,3 +12,5 @@ yarn start >in root<
 yarn build >in client<
 
 yarn seed >in root<
+
+yarn add lodash
