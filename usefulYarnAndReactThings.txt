@@ -2,6 +2,8 @@ create-react-app <name of project>
 yarn start
 
 
+yarn add styled-components
+
 yarn add axios
 yarn add react-router-dom
 
@@ -14,3 +16,11 @@ yarn build >in client<
 yarn seed >in root<
 
 yarn add lodash
+
+
+yarn global add prettier
+prettier --print-width=120 >JS file<
+prettier --print-width=120 --write >JS file<
+
+yarn global add eslint
+eslint **/*.{js,jsx} --quiet
